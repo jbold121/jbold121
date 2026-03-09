@@ -2,4 +2,5 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
- - [Harden Rocky Linux to CIS Benchmarks](https://github.com/jbold121/RockyLinuxLab)
+ - [Harden Rocky Linux to CIS Benchmarks](https://github.com/jbold121/HardenRocky)
+ - [Homelab network built on VirtualBox utilizing pfsense](https://github.com/jbold121/RockyLinuxLab)
